@@ -9,4 +9,4 @@ cd api -> yarn start
 open another console:
 cd front -> yarn start
 
-(Don't forget to do npm init at first to create a package.json file that includes information the project, such as name, version, description, dependencies, and other metadata).
+(Don't forget to run 'npm init' at first to create a package.json file that includes information the project, such as name, version, description, dependencies, and other metadata).
